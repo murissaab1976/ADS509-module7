@@ -52,7 +52,7 @@ pip install pandas scikit-learn matplotlib gensim numpy
 2. Navigate to the directory containing the script and CSV file.
 3. Run the script:
    ```bash
-   python topic_classification_script.py
+   python ADS509_FinalProject.py
    ```
 
 ## Additional Notes
